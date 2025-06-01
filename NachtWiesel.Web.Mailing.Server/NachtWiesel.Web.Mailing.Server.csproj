@@ -19,7 +19,7 @@
     <PackageTags>Email Web Server Quartz Mailing Sending Extension Configurator</PackageTags>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <RepositoryUrl>https://github.com/Leonid-Vizel/NachtWiesel.Web.Mailing/tree/master/NachtWiesel.Web.Mailing</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Leonid-Vizel/NachtWiesel.Web.Mailing.Server/tree/master/NachtWiesel.Web.Mailing.Server</RepositoryUrl>
     <PackageProjectUrl>https://public.weasel-farmers.ru/</PackageProjectUrl>
     <Copyright>Vizel Leonid</Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
